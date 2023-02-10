@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<!--Salut Médéric, je test si le modifications de fichier sont possibles et quelle répercussions elles auront sur nos github respectifs.->
+
 <!--
 **MedericDev/MedericDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
